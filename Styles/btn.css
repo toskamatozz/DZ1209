@@ -1,0 +1,16 @@
+.button {
+  color: white;
+	background: green;
+  border: none;
+  border-radius: 5%;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 5%;
+  cursor: pointer;
+}
+.button:nth-child(2n) {
+	color: white;
+	background: red;
+}
